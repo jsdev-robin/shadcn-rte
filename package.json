@@ -1,7 +1,16 @@
 {
   "name": "shadcn-rte",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "keywords": [
+    "shadcn",
+    "shadcn-ui",
+    "rich-text-editor",
+    "wysiwyg",
+    "react",
+    "tailwindcss",
+    "contenteditable"
+  ],
   "license": "MIT",
   "type": "module",
   "scripts": {
@@ -40,5 +49,12 @@
     "typescript": "~6.0.3",
     "typescript-eslint": "^8.72.1",
     "vite": "^8.3.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsdev-robin/shadcn-rte.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jsdev-robin/shadcn-rte/issues"
   }
 }
